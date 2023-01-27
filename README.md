@@ -29,8 +29,9 @@ npm run dev
 php artisan serve
 ```
 
-## Dependencies/Packages Install
+## Dependencies/Packages Installed
 
 - Tailwind CSS (https://tailwindcss.com/docs/installation)
 - Log Viewer for laravel (https://log-viewer.opcodes.io/docs)
 - Livewire (https://laravel-livewire.com/docs/2.x/quickstart)
+- Alpine.JS (https://alpinejs.dev/start-here)
