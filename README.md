@@ -29,7 +29,7 @@ npm run dev
 php artisan serve
 ```
 
-## Dependencies/Packages Install
+## Dependencies/Packages Installed
 
 - Tailwind CSS (https://tailwindcss.com/docs/installation)
 - Log Viewer for laravel (https://log-viewer.opcodes.io/docs)
