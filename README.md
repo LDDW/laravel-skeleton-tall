@@ -31,6 +31,10 @@ npm run dev
 php artisan serve
 ```
 
+## Acces to log viewer
+
+link to log viewer : http://127.0.0.1:8001/log-viewer
+
 ## Dependencies/Packages Installed
 
 - Tailwind CSS (https://tailwindcss.com/docs/installation)
