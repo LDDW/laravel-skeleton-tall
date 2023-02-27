@@ -77,6 +77,7 @@ alias pamj='php artisan make:job'
 alias paml='php artisan make:listener'
 alias pamn='php artisan make:notification'
 alias pampp='php artisan make:provider'
+alias pamlive='php artisan make:livewire'
 
 
 # Clears
@@ -92,4 +93,9 @@ alias paql='php artisan queue:listen'
 alias paqr='php artisan queue:retry'
 alias paqt='php artisan queue:table'
 alias paqw='php artisan queue:work'
+
+# npm
+alias nrd='npm run dev'
+alias nrb='npm run build'
+
 ```
